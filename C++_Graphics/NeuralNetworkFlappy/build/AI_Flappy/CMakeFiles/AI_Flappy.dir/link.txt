@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libAI_Flappy.a CMakeFiles/AI_Flappy.dir/src/Window.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libAI_Flappy.a

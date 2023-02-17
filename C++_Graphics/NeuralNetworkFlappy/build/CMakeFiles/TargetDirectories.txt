@@ -1,0 +1,8 @@
+/Users/aaronher/VSCodeProjects/C++/SFML/AutoFlappyRefactored/build/CMakeFiles/edit_cache.dir
+/Users/aaronher/VSCodeProjects/C++/SFML/AutoFlappyRefactored/build/CMakeFiles/rebuild_cache.dir
+/Users/aaronher/VSCodeProjects/C++/SFML/AutoFlappyRefactored/build/AI_Flappy/CMakeFiles/AI_Flappy.dir
+/Users/aaronher/VSCodeProjects/C++/SFML/AutoFlappyRefactored/build/AI_Flappy/CMakeFiles/edit_cache.dir
+/Users/aaronher/VSCodeProjects/C++/SFML/AutoFlappyRefactored/build/AI_Flappy/CMakeFiles/rebuild_cache.dir
+/Users/aaronher/VSCodeProjects/C++/SFML/AutoFlappyRefactored/build/Main/CMakeFiles/Main.dir
+/Users/aaronher/VSCodeProjects/C++/SFML/AutoFlappyRefactored/build/Main/CMakeFiles/edit_cache.dir
+/Users/aaronher/VSCodeProjects/C++/SFML/AutoFlappyRefactored/build/Main/CMakeFiles/rebuild_cache.dir

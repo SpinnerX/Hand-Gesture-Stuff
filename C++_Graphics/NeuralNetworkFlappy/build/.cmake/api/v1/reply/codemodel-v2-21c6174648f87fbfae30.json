@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "AI_Flappy",
+					"jsonFile" : "directory-AI_Flappy-Debug-aa7ce778ace5721dc972.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "AI_Flappy",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Main",
+					"jsonFile" : "directory-Main-Debug-54f97ae66de18f743192.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Main",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AutoFlappyRefactored"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "AI_Flappy",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Main",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "AI_Flappy::@35b538a7b0bce806970f",
+					"jsonFile" : "target-AI_Flappy-Debug-3c7267f1df8a9633ab2d.json",
+					"name" : "AI_Flappy",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Main::@e4405d0c4cf2df57c995",
+					"jsonFile" : "target-Main-Debug-171ba3ec267a0af3fde6.json",
+					"name" : "Main",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/aaronher/VSCodeProjects/C++/SFML/AutoFlappyRefactored/build",
+		"source" : "/Users/aaronher/VSCodeProjects/C++/SFML/AutoFlappyRefactored"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
